@@ -1,0 +1,123 @@
+{
+  "window.title": "${dirty} ${appName} ¯\\_(ツ)_/¯ ${rootName}",
+  "terminal.integrated.smoothScrolling": true,
+  "editor.inlineSuggest.enabled": true,
+  "editor.cursorSmoothCaretAnimation": "on",
+  "editor.smoothScrolling": true,
+  "editor.stickyScroll.enabled": false,
+  "editor.inlayHints.enabled": "on",
+  "editor.bracketPairColorization.enabled": false,
+  "editor.fontLigatures": true,
+  "update.showReleaseNotes": true,
+  "editor.rulers": [
+    80
+  ],
+  "workbench.colorCustomizations": {
+    "editorRuler.foreground": "#284cc5"
+  },
+  "editor.fontFamily": "'Liberation Mono', 'monospace', monospace",
+  "editor.fontWeight": "normal",
+  "chat.editor.fontFamily": "Consolas, 'Courier New', monospace",
+  "editor.wordSeparators": "`~!@#%^&*()=+[{]}\\|;:'\",.<>/?",
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "never"
+  },
+  "editor.fontSize": 14,
+  "terminal.integrated.defaultProfile.linux": "zsh",
+  "terminal.integrated.cursorBlinking": true,
+  "terminal.integrated.minimumContrastRatio": 1,
+  "terminal.integrated.fontFamily": "FiraCode Nerd Font",
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  "files.insertFinalNewline": true,
+  "files.trimFinalNewlines": true,
+  "files.trimTrailingWhitespace": true,
+  "liveServer.settings.donotShowInfoMsg": true,
+  "extensions.ignoreRecommendations": true,
+  "explorer.compactFolders": false,
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.editor.enablePreview": false,
+  "workbench.localHistory.enabled": false,
+  "workbench.list.smoothScrolling": true,
+  "workbench.startupEditor": "none",
+  "security.workspace.trust.enabled": false,
+  "security.workspace.trust.untrustedFiles": "newWindow",
+  "javascript.updateImportsOnFileMove.enabled": "prompt",
+  "javascript.inlayHints.variableTypes.enabled": false,
+  "javascript.inlayHints.functionLikeReturnTypes.enabled": false,
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "typescript.inlayHints.variableTypes.enabled": false,
+  "typescript.inlayHints.functionLikeReturnTypes.enabled": false,
+  "liveshare.accessibility.voiceEnabled": false,
+  "svelte.enable-ts-plugin": true,
+  "screencastMode.fontSize": 25,
+  "screencastMode.verticalOffset": 0,
+  "screencastMode.keyboardOverlayTimeout": 1000,
+  "screencastMode.mouseIndicatorSize": 25,
+  "screencastMode.mouseIndicatorColor": "#569cd6",
+  "disable-hardware-acceleration": false,
+  "git.branchProtection": [
+    "master",
+    "gh-pages"
+  ],
+  "git.branchProtectionPrompt": "alwaysPrompt",
+  "git.confirmSync": false,
+  "liveshare.presence": true,
+  "json.validate.enable": true,
+  "[css]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[scss]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  },
+  "[jsonc]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[php]": {
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "kokororin.vscode-phpfmt"
+  },
+  "[vue]": {
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "git.suggestSmartCommit": false,
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "workbench.colorTheme": "Cute",
+  "explorer.confirmDelete": false,
+  "extensions.autoUpdate": "onlyEnabledExtensions",
+  "files.associations": {
+    "*.html": "html",
+    "*.php": "php"
+  },
+  "laravel-pint.enable": true,
+  "vsintellicode.modify.editor.suggestSelection": "disabled",
+  "vim.handleKeys": {
+    "<C-d>": true,
+    "<C-s>": false,
+    "<C-z>": false,
+    "<C-b>": false,
+    "<C-k>": false,
+    "<C-p>": false
+  },
+  "[python]": {
+    "diffEditor.ignoreTrimWhitespace": false
+  }
+}
